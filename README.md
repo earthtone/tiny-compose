@@ -1,5 +1,7 @@
 # Tiny Compose
 
+![travis status](https://travis-ci.org/earthtone/tiny-compose.svg?branch=master)
+
 A pair of tiny compose and pipe functions in JavaScript.
 
 ---
