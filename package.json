@@ -2,8 +2,9 @@
   "name": "@earthtone/tiny-compose",
   "version": "0.0.1",
   "description": "A pair of tiny compose and pipe functions in JavaScript.",
-  "main": "index.js",
-  "module": "main.js",
+  "main": "dist/index.umd.js",
+  "module": "dist/index.esm.js",
+  "module": "dist/index.unpkg.js",
   "scripts": {
     "clean": "rimraf dist",
     "lint": "eslint . --fix",
